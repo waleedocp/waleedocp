@@ -60,13 +60,20 @@ Android Vulnerability Assistant	Mobile Security Program
 ITIL Foundation	AXELOS
 💼 Work Experience
 Role	Company	Period	Type	Description
-Software Engineer	Egyptian Army	2016 – Present	Full-time	Developing and maintaining secure software systems for internal operations and data management
+Software Engineer	Egyptian Army	2016 – Present	Full-time Developing and maintaining secure software systems for internal operations and data management
+
 Backend Developer (C# Microservices)	RoyalWay	2019 – 2022	Freelance	Built scalable microservice-based backend systems using C# and .NET, focused on reliability and performance
+
 Backend & Mobile Developer	Giftologer	2022 – 2024	Part-time	Developed Laravel + Flutter architecture with Firebase messaging, deep linking, and AI-powered recommendations
+
 Full Stack Developer	Tawzeef	2024 – 2025	Freelance	Created AI-powered recruitment system using Laravel + Livewire; implemented CV analysis and ATS scoring with AI models
+
 Full Stack Developer	Plan B	2022 – 2024	Full-time	Built REST APIs, managed multi-tenant systems, optimized queries, and integrated automation workflows
+
 Oracle Database Administrator	ERMC (Egyptian Railways Medical Center)	2010 – 2015	Full-time	Managed and optimized Oracle databases, implemented backup strategies, and ensured data integrity and performance
+
 IT & Marketing Specialist	Leader Line Aston Martin / Methode Electronics	2019 – 2022	Full-time	Managed IT operations, infrastructure, and digital transformation initiatives
+
 🌟 Featured Projects
 Project	Description	Tech Stack
 🎁 Giftologer
