@@ -81,8 +81,6 @@ Shipping Tracker Website	Real-time shipment tracking interface	HTML, CSS, JS
 
 🤝 Connect With Me
 
-🌐 Portfolio: www.elzeinigroup.com
-
 💼 LinkedIn: linkedin.com/in/waleedocp
 
 📧 Email: waleed.ita@gmail.com
